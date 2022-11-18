@@ -1,6 +1,3 @@
-import 'dart:ui';
-
-import 'package:flexidate/flexi_date_parser.dart';
 import 'package:flexidate/flexidate.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:intl/date_symbol_data_local.dart';
